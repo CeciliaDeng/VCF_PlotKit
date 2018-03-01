@@ -1,5 +1,5 @@
 workDir=`pwd`
-inputFile=/workspace/hrahxz/bioinf_Citrus_HZAU/2018_Yinpei/indel/variants.filter.snp.vcf
+inputFile=/path/to/2018_Yinpei/indel/variants.filter.snp.vcf
 
 module load R
 module load bcftools
